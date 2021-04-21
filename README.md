@@ -26,9 +26,9 @@ I'm P**eng** Y**ao**h**ui**, a web frontend developer from ChangSha, China.
 -   :hammer_and_pick: JavaScript/Css3/Html5/Vue/React
 -   :package: Work in shenzhen
 -   :pencil2: csdn:[易函123](https://blog.csdn.net/qq_43485006)/思否:[易函123](https://segmentfault.com/u/yihan123)/掘金:[易函123](https://juejin.cn/user/3016715638158381)
--   :seedling: Preparing for [Gaokao](https://en.wikipedia.org/wiki/National_College_Entrance_Examination)
--   :man: Pronouns: he/him
--   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
+-   :seedling: 
+-   :man: 
+-   :key: GPG key: 
 
 ---
 
