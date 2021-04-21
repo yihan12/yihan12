@@ -27,7 +27,8 @@ I'm P**eng** Y**ao**h**ui**, a web frontend developer from ChangSha, China.
 -   :package: Work in shenzhen
 -   :pencil2: csdn:[易函123](https://blog.csdn.net/qq_43485006)/思否:[易函123](https://segmentfault.com/u/yihan123)/掘金:[易函123](https://juejin.cn/user/3016715638158381)
 -   :key: Email: 1245501816@qq.com
-
+-   :seedling: 
+-   :man: 
 ---
 
 #### :bar_chart: Weekly development breakdown
