@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=yihan12.readme)
 
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=yihan12">]()
 
 I'm P**eng** Y**ao**h**ui**, a web frontend developer from ChangSha, China.
 
@@ -28,8 +27,8 @@ I'm P**eng** Y**ao**h**ui**, a web frontend developer from ChangSha, China.
 -   :pencil2: Csdn:[易函123](https://blog.csdn.net/qq_43485006)/思否:[易函123](https://segmentfault.com/u/yihan123)/掘金:[易函123](https://juejin.cn/user/3016715638158381)
 -   :key: Email: 1245501816@qq.com
 -   :seedling: Live and learn
--   :man: 
----
+
+![](https://github-readme-stats.vercel.app/api?username=yihan12)
 
 #### :bar_chart: Weekly development breakdown
 
