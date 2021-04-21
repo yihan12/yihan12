@@ -30,6 +30,8 @@ I'm P**eng** Y**ao**h**ui**, a web frontend developer from ChangSha, China.
 
 ![](https://github-readme-stats.vercel.app/api?username=yihan12)
 
+---
+
 #### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:waka-->
