@@ -32,9 +32,6 @@ I'm P**eng** Y**ao**h**ui**, a web frontend developer from ChangSha, China.
 
 ---
 
-
----
-
 #### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:waka-->
@@ -47,4 +44,3 @@ Markdown   27 mins         █▓░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
----
