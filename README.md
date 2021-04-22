@@ -36,11 +36,11 @@ I'm P**eng** Y**ao**h**ui**, a web frontend developer from ChangSha, China.
 
 <!--START_SECTION:waka-->
 ```text
-VimL       3 hrs 30 mins   ███████████▓░░░░░░░░░░░░░   46.74 % 
-Bash       1 hr 35 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.32 % 
-Other      48 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-C++        29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-Markdown   27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Markdown         3 hrs 30 mins      ███████████▓░░░░░░░░░░░░░   46.74 % 
+JavaScript       1 hr 35 mins       █████▒░░░░░░░░░░░░░░░░░░░   21.32 % 
+HTML             48 mins            ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+CSS3             29 mins            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+HTML5            27 mins            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
 ```
 <!--END_SECTION:waka-->
 
