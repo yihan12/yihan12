@@ -28,6 +28,8 @@ I'm P**eng** Y**ao**h**ui**, a web frontend developer from ChangSha, China.
 -   :key: Email: 1245501816@qq.com
 -   :seedling: Live and learn
 
+---
+
 📊 **some stats**
 
 ![](https://github-readme-stats.vercel.app/api?username=yihan12)
