@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📊 **some stats**
 
 ![](https://visitor-badge.glitch.me/badge?page_id=yihan12.readme)
 
@@ -28,6 +27,8 @@ I'm P**eng** Y**ao**h**ui**, a web frontend developer from ChangSha, China.
 -   :pencil2: CSDN:[易函123](https://blog.csdn.net/qq_43485006)/思否:[易函123](https://segmentfault.com/u/yihan123)/掘金:[易函123](https://juejin.cn/user/3016715638158381)/博客园：[易函123](https://www.cnblogs.com/yihan123/)
 -   :key: Email: 1245501816@qq.com
 -   :seedling: Live and learn
+
+📊 **some stats**
 
 ![](https://github-readme-stats.vercel.app/api?username=yihan12)
 
