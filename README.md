@@ -32,7 +32,18 @@ I'm P**eng** Y**ao**h**ui**, a web frontend developer from ChangSha, China.
 
 📊 **some stats**
 
-![](https://github-readme-stats.vercel.app/api?username=yihan12)
+<table>
+  <tbody>
+    <tr>
+      <td>
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=yihan12&theme=chartreuse-dark&show_icons=true" />
+      </td>
+       <td>
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yihan12&theme=chartreuse-dark" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
