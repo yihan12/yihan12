@@ -30,6 +30,27 @@ I'm P**eng** Y**ao**h**ui**, a web frontend developer from ChangSha, China.
 
 ---
 
+I think these code repositories are okay...
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/yihan12/day-to-day">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yihan12&repo=day-to-day" />
+        </a>
+     </td>
+       <td>
+        <a href="https://github.com/yihan12/Blog">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yihan12&repo=Blog" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 📊 **some stats**
 
 <table>
