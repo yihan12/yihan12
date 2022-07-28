@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+📊 **some stats**
 
 ![](https://visitor-badge.glitch.me/badge?page_id=yihan12.readme)
 
