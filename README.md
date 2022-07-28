@@ -36,10 +36,10 @@ I'm P**eng** Y**ao**h**ui**, a web frontend developer from ChangSha, China.
   <tbody>
     <tr>
       <td>
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=yihan12&theme=chartreuse-dark&show_icons=true" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=yihan12&show_icons=true" />
       </td>
        <td>
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yihan12&theme=chartreuse-dark" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yihan12" />
       </td>
     </tr>
   </tbody>
