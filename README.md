@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<table>
-  <tbody>
-    <tr>
-      <td>
+
 I'm Peng Yao hui, a web frontend developer from ChangSha, China.
 
 -   :hammer_and_pick: JavaScript/Css3/Html5/Vue/React
@@ -27,18 +24,28 @@ I'm Peng Yao hui, a web frontend developer from ChangSha, China.
 -   :pencil2: CSDN:[易函123](https://blog.csdn.net/qq_43485006)/思否:[易函123](https://segmentfault.com/u/yihan123)/掘金:[易函123](https://juejin.cn/user/3016715638158381)/博客园：[易函123](https://www.cnblogs.com/yihan123/)
 -   :key: Email: 1245501816@qq.com
 -   :seedling: Live and learn
-           </td>
-      <td>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yihan12)](https://git.io/streak-stats)
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 ---
 
 
+
+
+---
+
+
+<div align="center"> 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yihan12)](https://git.io/streak-stats)
+<img src="https://stats.justsong.cn/api/csdn?id=qq_43485006">
+</div>
+
+
 📊 **some stats**
+
+
+<div align="center"> 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yihan12)](https://git.io/streak-stats)
+<img src="https://stats.justsong.cn/api/csdn?id=qq_43485006">
+</div>
 
 <table>
   <tbody>
