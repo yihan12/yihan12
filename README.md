@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=yihan12.readme) -->
-
-[![GitHub Streak](/?user=yihan12)](/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yihan12&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm P**eng** Y**ao**h**ui**, a web frontend developer from ChangSha, China.
 
