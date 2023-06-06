@@ -28,22 +28,10 @@ I'm Peng Yao hui, a web frontend developer from ChangSha, China.
 ---
 
 
-
-
----
-
-
-<div align="center"> 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yihan12)](https://git.io/streak-stats)
-<img src="https://stats.justsong.cn/api/csdn?id=qq_43485006">
-</div>
-
-
 📊 **some stats**
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yihan12)](https://git.io/streak-stats)
 
 <div align="center"> 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yihan12)](https://git.io/streak-stats)
 <img src="https://stats.justsong.cn/api/csdn?id=qq_43485006">
 </div>
 
