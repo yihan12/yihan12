@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yihan12&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
 I'm P**eng** Y**ao**h**ui**, a web frontend developer from ChangSha, China.
 
 -   :hammer_and_pick: JavaScript/Css3/Html5/Vue/React
