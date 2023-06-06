@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=yihan12.readme)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=yihan12.readme) -->
 
-
+[![GitHub Streak](/?user=yihan12)](/streak-stats)
 
 I'm P**eng** Y**ao**h**ui**, a web frontend developer from ChangSha, China.
 
