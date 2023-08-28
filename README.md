@@ -24,7 +24,7 @@ I'm Peng Yao hui, a web frontend developer from ChangSha, China.
 -   :pencil2: CSDN:[易函123](https://blog.csdn.net/qq_43485006)/思否:[易函123](https://segmentfault.com/u/yihan123)/掘金:[易函123](https://juejin.cn/user/3016715638158381)/博客园：[易函123](https://www.cnblogs.com/yihan123/)
 -   :key: Email: 1245501816@qq.com  Blog:[易函123](https://yihan12.github.io/)
 -   :seedling: Live and learn
--   😄：[个人网站](https://yihan12.github.io/)
+-   😄 Blog：[个人博客](https://yihan12.github.io/)
 
 ---
 
