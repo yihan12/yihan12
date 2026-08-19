@@ -36,20 +36,17 @@ I'm Peng Yao hui, a web frontend developer from ChangSha, China.
   <img height="165" src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
-<table>
-  <tbody>
-    <tr>
-      <td>
-          <img src="https://stats.justsong.cn/api/csdn?id=qq_43485006">
-      </td>
-       <td>
-          <img align="center" src="https://stats.justsong.cn/api/juejin?id=3016715638158381" />
-      </td>
-    </tr>
-    
-  </tbody>
-</table>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yihan12&hide_border=true&theme=transparent" alt="GitHub Streak" />
+</p>
+<details>
+  <summary>Community stats (CSDN / 掘金)</summary>
+  <br />
+  <p align="center">
+    <img src="https://stats.justsong.cn/api/csdn?id=qq_43485006" alt="CSDN Stats" />
+    <img src="https://stats.justsong.cn/api/juejin?id=3016715638158381" alt="Juejin Stats" />
+  </p>
+</details>
 
 
 
