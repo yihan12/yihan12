@@ -31,7 +31,10 @@ I'm Peng Yao hui, a web frontend developer from ChangSha, China.
 
 📊 **some stats**
 
-
+<p align="center">
+  <img height="165" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top Languages" />
+</p>
 
 <table>
   <tbody>
