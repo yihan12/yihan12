@@ -33,24 +33,27 @@ Here are some ideas to get you started:
 -->
 
 
+### Links
 
-I'm Peng Yao hui, a web frontend developer from ChangSha, China.
-
--   :hammer_and_pick: JavaScript/Css3/Html5/Vue/React
--   :package: Work in shenzhen
--   :pencil2: CSDN:[易函123](https://blog.csdn.net/qq_43485006)/思否:[易函123](https://segmentfault.com/u/yihan123)/掘金:[易函123](https://juejin.cn/user/3016715638158381)/博客园：[易函123](https://www.cnblogs.com/yihan123/)
--   :key: Email: 1245501816@qq.com  
--   😄 Blog：[个人博客](https://yihan12.github.io/)
--   :seedling: Live and learn
+| | |
+| --- | --- |
+| 🔭Blog | [yihan12.github.io](https://yihan12.github.io/) |
+| 🌱掘金 | [易函123](https://juejin.cn/user/3016715638158381) |
+| 👯CSDN | [易函123](https://blog.csdn.net/qq_43485006) |
+| 💬思否 | [易函123](https://segmentfault.com/u/yihan123) |
+| 📫博客园 | [易函123](https://www.cnblogs.com/yihan123/) |
+| 😄Email | [1245501816@qq.com](mailto:1245501816@qq.com) |
 
 ---
 
-
-📊 **some stats**
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="./profile/stats.svg" alt="GitHub Stats" />
   <img height="165" src="./profile/top-langs.svg" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yihan12&hide_border=true&theme=transparent" alt="GitHub Streak" />
 </p>
 <details>
   <summary>Community stats (CSDN / 掘金)</summary>
@@ -61,9 +64,6 @@ I'm Peng Yao hui, a web frontend developer from ChangSha, China.
   </p>
 </details>
 
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yihan12)](https://git.io/streak-stats)
 ---
 
 #### :bar_chart: Weekly development breakdown
