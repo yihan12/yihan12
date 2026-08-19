@@ -37,21 +37,6 @@ I'm Peng Yao hui, a web frontend developer from ChangSha, China.
   <tbody>
     <tr>
       <td>
-         <img src="https://streak-stats.demolab.com?user=yihan12&hide_border=true&theme=transparent" alt="GitHub Streak" />
-      </td>
-       <td>
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yihan12" />
-      </td>
-    </tr>
-    
-  </tbody>
-</table>
-
-
-<table>
-  <tbody>
-    <tr>
-      <td>
           <img src="https://stats.justsong.cn/api/csdn?id=qq_43485006">
       </td>
        <td>
