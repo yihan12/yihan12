@@ -1,74 +1,48 @@
-### Hi there, I'm yihan123 👋
+### Hi, I'm Peng Yaohui 👋
 
-<!--
-**yihan12/yihan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+前端开发 · 长沙 · 现居深圳  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-I'm Peng Yao hui, a web frontend developer from ChangSha, China.
-
--   :hammer_and_pick: JavaScript/Css3/Html5/Vue/React
--   :package: Work in shenzhen
--   :pencil2: CSDN:[易函123](https://blog.csdn.net/qq_43485006)/思否:[易函123](https://segmentfault.com/u/yihan123)/掘金:[易函123](https://juejin.cn/user/3016715638158381)/博客园：[易函123](https://www.cnblogs.com/yihan123/)
--   :key: Email: 1245501816@qq.com  
--   😄 Blog：[个人博客](https://yihan12.github.io/)
--   :seedling: Live and learn
+专注 Web 前端，日常使用 **JavaScript / HTML5 / CSS3 / Vue / React**。  
+Live and learn.
 
 ---
 
+### 🔗 Find me
 
-📊 **some stats**
-
-
-
-<table>
-  <tbody>
-    <tr>
-      <td>
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=yihan12&show_icons=true" />
-      </td>
-       <td>
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yihan12" />
-      </td>
-    </tr>
-    
-  </tbody>
-</table>
-
-
-<table>
-  <tbody>
-    <tr>
-      <td>
-          <img src="https://stats.justsong.cn/api/csdn?id=qq_43485006">
-      </td>
-       <td>
-          <img align="center" src="https://stats.justsong.cn/api/juejin?id=3016715638158381" />
-      </td>
-    </tr>
-    
-  </tbody>
-</table>
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=yihan12)](https://git.io/streak-stats)
+| Platform | Link |
+| --- | --- |
+| 个人博客 | [yihan12.github.io](https://yihan12.github.io/) |
+| 掘金 | [易函123](https://juejin.cn/user/3016715638158381) |
+| CSDN | [易函123](https://blog.csdn.net/qq_43485006) |
+| 思否 | [易函123](https://segmentfault.com/u/yihan123) |
+| 博客园 | [易函123](https://www.cnblogs.com/yihan123/) |
+| Email | [1245501816@qq.com](mailto:1245501816@qq.com) |
 
 ---
 
-#### :bar_chart: Weekly development breakdown
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yihan12&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yihan12&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yihan12&hide_border=true&theme=transparent" alt="GitHub Streak" />
+</p>
+
+<details>
+  <summary>社区数据（CSDN / 掘金）</summary>
+  <br />
+  <p align="center">
+    <img src="https://stats.justsong.cn/api/csdn?id=qq_43485006" alt="CSDN Stats" />
+    <img src="https://stats.justsong.cn/api/juejin?id=3016715638158381" alt="Juejin Stats" />
+  </p>
+</details>
+
+---
+
+### ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 ```text
@@ -77,6 +51,3 @@ JavaScript       1 hr 35 mins       █████▒░░░░░░░░�
 HTML             48 mins            ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
 CSS3             29 mins            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
 HTML5            27 mins            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-```
-<!--END_SECTION:waka-->
-
