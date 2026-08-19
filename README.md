@@ -1,16 +1,20 @@
 ### Hi, I'm yihan12 👋
+
 前端开发 · 长沙 · 现居深圳  
 做 Web 前端，常用 **JavaScript / HTML5 / CSS3 / Vue / React**。  
 写笔记、练算法、拆源码，边做边记。  
 Live and learn.
+
 ---
 ### Featured Projects
+
 | Project | About |
 | --- | --- |
 | [day-to-day](https://github.com/yihan12/day-to-day) | 前端日常笔记：常见 Bug、代码片段与工作心得 |
 | [Blog](https://github.com/yihan12/Blog) | 学习过程记录：从基础到实践的前端笔记 |
 | [LeetCode-exercise](https://github.com/yihan12/LeetCode-exercise) | 算法练习：JavaScript 刷题思路与实现 |
 更多：[build-up_ES6-ES12](https://github.com/yihan12/build-up_ES6-ES12) · [Frontend-interview](https://github.com/yihan12/Frontend-interview) · [Vue2_AI_Analysis](https://github.com/yihan12/Vue2_AI_Analysis)
+
 ---
 
 <!--
